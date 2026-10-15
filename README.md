@@ -63,20 +63,22 @@ Screenshots will be added to demonstrate the application's interface and gamepla
 
 3. **Quiz Gameplay** — Arithmetic questions, countdown timer, and current score.
    <img width="478" height="127" alt="image" src="https://github.com/user-attachments/assets/8aaa62db-4cff-4c7f-a73b-5883849d408b" />
+
    <img width="350" height="219" alt="image" src="https://github.com/user-attachments/assets/06889c83-74bf-4d4f-922b-fbfe6433c045" />
    <img width="655" height="346" alt="image" src="https://github.com/user-attachments/assets/e36406f4-7ba1-4f4a-ab1b-6d37bd2d79be" />
 
 
   
-4. **Answer Feedback** — Correct answers, incorrect answers, and time-up messages.
+5. **Answer Feedback** — Correct answers, incorrect answers, and time-up messages.
    <img width="655" height="311" alt="image" src="https://github.com/user-attachments/assets/49e915ab-a7ca-4de3-854e-e60623eaacc4" />
    <img width="656" height="338" alt="image" src="https://github.com/user-attachments/assets/53657813-b5b4-47eb-9c63-d58a19cc9b1f" />
    <img width="652" height="339" alt="image" src="https://github.com/user-attachments/assets/014c2576-a82b-43a7-a7cc-aa1f95073a20" />
 
-5. **Leaderboard** — Top three players and their scores.
+6. **Leaderboard** — Top three players and their scores.
+
    <img width="527" height="258" alt="image" src="https://github.com/user-attachments/assets/02600d01-4f8e-4132-82d3-108806acf87e" />
 
-7. **Game Over / Completion** — Final score and game results.
+8. **Game Over / Completion** — Final score and game results.
    <img width="531" height="267" alt="image" src="https://github.com/user-attachments/assets/7c476e0f-9060-4587-a93e-33db0a46db85" />
 
 ## 04. Installation & Usage
