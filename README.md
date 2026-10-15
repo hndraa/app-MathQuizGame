@@ -76,7 +76,7 @@ Screenshots will be added to demonstrate the application's interface and gamepla
 5. **Leaderboard** — Top three players and their scores.
    <img width="527" height="258" alt="image" src="https://github.com/user-attachments/assets/02600d01-4f8e-4132-82d3-108806acf87e" />
 
-6. **Game Over / Completion** — Final score and game results.
+7. **Game Over / Completion** — Final score and game results.
    <img width="531" height="267" alt="image" src="https://github.com/user-attachments/assets/7c476e0f-9060-4587-a93e-33db0a46db85" />
 
 ## 04. Installation & Usage
