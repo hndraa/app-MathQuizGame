@@ -1,5 +1,5 @@
 # Math Quiz Game
-
+SOFTWARE | CONSOLE GAME | C++ · WINDOWS
 An interactive console-based mathematics quiz game developed using C++. The game challenges players to solve arithmetic questions within a limited time, earn points, and compete for a place on the leaderboard.
 
 ## 01. Project Overview
