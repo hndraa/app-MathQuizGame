@@ -95,8 +95,8 @@ Screenshots will be added to demonstrate the application's interface and gamepla
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/app-math-quiz-game.git
-cd app-math-quiz-game
+git clone https://github.com/YOUR_USERNAME/app-MathQuizGame.git
+cd app-MathQuizGame
 ```
 
 Replace `YOUR_USERNAME` with your GitHub username.
